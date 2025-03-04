@@ -1,0 +1,2 @@
+AppointmentID,PatientID,DentistID,AppointmentDate,Time,ServiceType,AppointmentStatus
+2,6801328,6582268,2025-03-28,10:00:00,"Teeth Cleaning",Scheduled

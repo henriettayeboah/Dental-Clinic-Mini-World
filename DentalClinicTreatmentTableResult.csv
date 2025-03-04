@@ -1,0 +1,2 @@
+TreatmentID,PatientID,AppointmentID,DentistID,TreatmentDate,TreatmentDescription,DentistNotes
+6943200,80073381,2893456,6582269,2025-03-28,"Teeth Cleaning","RRoutine Cleaning"
